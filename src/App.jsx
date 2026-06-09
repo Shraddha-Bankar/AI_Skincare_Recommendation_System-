@@ -418,8 +418,9 @@ const SKIN_JOURNAL_RATINGS = ["😩 Very Bad", "😕 Bad", "😐 Okay", "🙂 Go
 // ─── HELPERS ─────────────────────────────────────────────────────────────────
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
-// ── OpenRouter API key — replace with your actual key ────────────────────────
-const OPENROUTER_API_KEY = "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"; // 🔑 Replace with your OpenRouter API key
+// ── OpenRouter API key — set via environment variable ────────────────────────
+// Replace with import.meta.env.VITE_OPENROUTER_API_KEY in production
+const OPENROUTER_API_KEY = import.meta.env.VITE_OPENROUTER_API_KEY || ""; // 🔑 Add your API key to .env file
 
 const callClaude = async (prompt, systemPrompt, useSearch = false) => {
   const messages = [];
