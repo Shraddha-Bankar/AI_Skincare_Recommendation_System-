@@ -1,92 +1,172 @@
 # 🧠 AI Skincare Recommendation System
 
-## 📌 Project Title
-AI Skincare Recommendation System  
-
-## 👩‍💻 Author
-Shraddha Bankar  
-
-## 🏫 Affiliation
-Computer Science Engineering (Data Science)  
-
-## 📅 Date
-April 2026  
+## 🚀 Live Demo
+🔗 https://ai-skincare-recommendation-system.vercel.app/
 
 ---
 
-## 📄 Abstract
-This project helps people choose the right skincare products in a simple and smart way. Many people use the wrong products and face skin problems like acne, dryness, or irritation. This system takes user details like skin type, skin issues, and budget, and gives the best suggestions. It also provides a daily skincare routine and basic precautions. The goal is to make skincare easy, safe, and affordable for everyone.
+# AI Skincare Recommendation System
+
+### Shraddha Bankar
+Computer Science Engineering (Data Science)
 
 ---
 
-## 📖 Introduction
-Today, many people are confused about skincare. They follow random advice from social media or try different products without knowing what suits their skin. This leads to skin damage and waste of money.  
+## Abstract
 
-This project solves this problem by giving personalized skincare suggestions using AI. It helps users understand their skin and choose better products.
+This project helps people choose the right skincare products in a simple and intelligent way. Many individuals use inappropriate skincare products and experience issues such as acne, dryness, irritation, and sensitivity. The proposed AI-based skincare recommendation system analyzes user inputs including skin type, skin concerns, and budget to provide personalized product recommendations. Additionally, the system generates a daily skincare routine and preventive care suggestions. The primary objective is to make skincare selection easier, safer, and more affordable for users.
 
----
-
-## 📚 Literature Review
-Most existing systems and websites give general recommendations that are the same for everyone. They do not focus on individual skin needs.  
-
-This project improves this by giving personalized suggestions based on user input like skin type, problems, and budget. It makes the system more useful and practical.
+**Keywords:** Artificial Intelligence, Skincare Recommendation, Machine Learning, Personalized Healthcare, Flask, Python.
 
 ---
 
-## ⚙️ Methodology
-The system collects user input such as skin type, skin issues (like acne or dryness), and budget. It then uses simple rules and basic AI logic to analyze the data. Based on this, it recommends suitable products, daily routines, and precautions for better skin care.
+## I. Introduction
+
+Skincare has become an important aspect of personal health and wellness. However, many people rely on social media trends, advertisements, or trial-and-error methods when selecting skincare products. This often leads to unsuitable product choices, skin damage, and unnecessary expenses.
+
+The AI Skincare Recommendation System addresses this problem by providing personalized skincare recommendations based on individual user characteristics. By leveraging AI techniques and user preferences, the system assists users in making informed skincare decisions.
 
 ---
 
-## 🛠️ Implementation
-- Python (for backend logic)  
-- Flask (for web application)  
-- HTML, CSS (for frontend design)  
-- SQLite (for storing user data)  
-- Basic Machine Learning (for recommendations)  
+## II. Literature Review
+
+Existing skincare recommendation platforms often provide generic suggestions that do not adequately account for individual skin conditions and preferences. Many systems lack personalization and fail to consider factors such as budget constraints and specific skin concerns.
+
+The proposed system improves upon these limitations by offering customized recommendations based on user-provided information, resulting in a more practical and user-centric solution.
 
 ---
 
-## 📊 Results and Discussion
-The system successfully gives personalized skincare suggestions based on user input. It is easy to use and helps users make better decisions.  
+## III. Methodology
 
-Users can:
-- Get product recommendations  
-- Follow a daily routine  
-- Understand what suits their skin  
+The system follows the following workflow:
 
-This shows that AI can be helpful in solving real-life problems.
+1. Collect user inputs:
+   - Skin Type
+   - Skin Concerns
+   - Budget Range
 
----
+2. Analyze user data using recommendation logic and machine learning techniques.
 
-## ⚠️ Limitations
-- This system is not a replacement for a dermatologist  
-- Limited dataset may reduce accuracy  
-- Does not include image-based skin detection  
-- Recommendations are based on general logic  
+3. Generate:
+   - Personalized product recommendations
+   - Daily skincare routines
+   - Skincare precautions and tips
 
----
-
-## 🔮 Future Scope
-- Add face/skin detection using camera  
-- Build a mobile application  
-- Improve accuracy using advanced AI models  
-- Add multi-language support (English, Hindi, Marathi)  
-- Connect with doctors for expert advice  
+4. Display results through an easy-to-use web interface.
 
 ---
 
-## ✅ Conclusion
-This project provides a simple and useful solution for choosing the right skincare products. It helps users avoid wrong choices and improves their skincare routine. It also shows how AI can be used in real-world problems and can be improved further in the future.
+## IV. System Architecture
+
+```text
+User Input
+     │
+     ▼
+Data Processing
+     │
+     ▼
+Recommendation Engine
+     │
+     ▼
+Product Suggestions
+     │
+     ▼
+Daily Routine & Precautions
+```
 
 ---
 
-## 📚 References
-- Kaggle (datasets)  
-- Scikit-learn  
-- Flask Documentation  
+## V. Technologies Used
+
+| Category | Technology |
+|-----------|------------|
+| Frontend | HTML, CSS |
+| Backend | Python, Flask |
+| Database | SQLite |
+| Machine Learning | Scikit-learn |
+| Data Processing | Pandas, NumPy |
+| Deployment | Vercel |
 
 ---
 
-## ⭐
-If you like this project, give it a star on GitHub!
+## VI. Implementation
+
+The system was developed using Python and Flask. User information is processed through a recommendation engine that analyzes skin type, concerns, and budget constraints. The generated recommendations are then displayed through a responsive web interface.
+
+Key implementation components include:
+
+- User Input Collection
+- Recommendation Logic
+- Database Management
+- Web Interface
+- Deployment on Vercel
+
+---
+
+## VII. Results and Discussion
+
+The developed system successfully generates personalized skincare recommendations based on user requirements.
+
+### Key Features
+
+- Personalized product recommendations
+- Daily skincare routines
+- Budget-friendly suggestions
+- User-friendly interface
+- Fast response generation
+
+The results demonstrate that AI can effectively assist users in selecting skincare products and maintaining healthy skincare practices.
+
+---
+
+## VIII. Limitations
+
+- Not a substitute for professional dermatological consultation.
+- Limited dataset may affect recommendation accuracy.
+- No image-based skin analysis.
+- Recommendations rely on predefined rules and available data.
+
+---
+
+## IX. Future Scope
+
+Future enhancements may include:
+
+- AI-powered skin image analysis
+- Mobile application development
+- Deep learning-based recommendation models
+- Multi-language support (English, Hindi, Marathi)
+- Integration with dermatologists and healthcare experts
+- Real-time skincare tracking
+
+---
+
+## X. Conclusion
+
+The AI Skincare Recommendation System provides an intelligent and user-friendly approach to skincare product selection. By offering personalized recommendations and skincare guidance, the system helps users make better decisions and improve their skincare routines. This project demonstrates the practical application of Artificial Intelligence in solving everyday healthcare and wellness challenges.
+
+---
+
+## References
+
+[1] Kaggle Datasets
+
+[2] Scikit-learn Documentation
+
+[3] Flask Documentation
+
+[4] Python Documentation
+
+[5] SQLite Documentation
+
+---
+
+## Live Project
+
+🔗 https://ai-skincare-recommendation-system.vercel.app/
+
+---
+
+### ⭐ Support
+
+If you found this project helpful, please consider giving it a **Star ⭐** on GitHub.
