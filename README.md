@@ -149,15 +149,19 @@ The AI Skincare Recommendation System provides an intelligent and user-friendly 
 
 ## References
 
-[1] Kaggle Datasets
+[1] Python Software Foundation, "Python Documentation." Available: https://docs.python.org/3/ :contentReference[oaicite:0]{index=0}
 
-[2] Scikit-learn Documentation
+[2] Scikit-learn Developers, "Scikit-learn Documentation." Available: https://scikit-learn.org/stable/ :contentReference[oaicite:1]{index=1}
 
-[3] Flask Documentation
+[3] Flask Documentation. Available: https://flask.palletsprojects.com/
 
-[4] Python Documentation
+[4] Kaggle Datasets. Available: https://www.kaggle.com/datasets
 
-[5] SQLite Documentation
+[5] American Academy of Dermatology (AAD). Available: https://www.aad.org/
+
+[6] Mayo Clinic – Skin Care Basics. Available: https://www.mayoclinic.org/
+
+[7] AI Skincare Recommendation System (Live Demo). Available: https://ai-skincare-recommendation-system.vercel.app/
 
 ---
 
