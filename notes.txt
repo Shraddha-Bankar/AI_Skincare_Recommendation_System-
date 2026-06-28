@@ -1,0 +1,252 @@
+==================================================================
+NOTES
+Lumiere AI - AI Skincare Recommendation System
+==================================================================
+
+Project Type:
+AI-Powered Personalized Skincare Recommendation Web Application
+
+==================================================================
+TECH STACK
+==================================================================
+
+Frontend
+---------
+• React 18
+• Vite 5
+• JavaScript (ES6+)
+• CSS3
+
+Backend
+--------
+• Node.js
+• Express.js
+• Vercel Serverless Functions
+
+AI Services
+-----------
+• OpenRouter API
+• Meta Llama Models
+
+Database
+--------
+• Supabase PostgreSQL
+
+Deployment
+----------
+• Vercel
+
+==================================================================
+PROJECT OVERVIEW
+==================================================================
+
+Lumiere AI is an intelligent skincare recommendation system that
+uses Artificial Intelligence to generate personalized skincare
+routines based on user information such as:
+
+• Skin Type
+• Skin Concerns
+• Age Group
+• Climate
+• Budget
+
+The application also includes:
+
+• AI Skin Analysis
+• Ingredient Safety Checker
+• Product Comparison
+• Skin Progress Tracker
+• Daily Skin Journal
+• AI Chat Assistant
+• Camera-Based Skin Scan
+• Analytics Dashboard
+
+==================================================================
+PREREQUISITES
+==================================================================
+
+Before running the project, install:
+
+• Node.js (v18 or later)
+• npm
+• OpenRouter API Key
+• Supabase Project (optional for production deployment)
+
+==================================================================
+INSTALLATION
+==================================================================
+
+Clone the repository
+
+git clone https://github.com/Shraddha-Bankar/AI_Skincare_Recommendation_System-.git
+
+Go to project directory
+
+cd AI_Skincare_Recommendation_System-
+
+Install dependencies
+
+npm install
+
+==================================================================
+ENVIRONMENT VARIABLES
+==================================================================
+
+Create a .env file and configure:
+
+OPENROUTER_API_KEY=
+
+SUPABASE_URL=
+
+SUPABASE_ANON_KEY=
+
+VITE_ANTHROPIC_API_KEY=
+
+==================================================================
+RUNNING THE PROJECT
+==================================================================
+
+Start the frontend
+
+npm run dev
+
+Start the local backend
+
+npm run server
+
+Open the application
+
+http://localhost:5173
+
+==================================================================
+AVAILABLE NPM SCRIPTS
+==================================================================
+
+npm run dev
+    Starts the Vite development server.
+
+npm run server
+    Starts the Express backend server.
+
+npm run build
+    Creates the production build.
+
+npm run preview
+    Runs the production build locally.
+
+==================================================================
+PROJECT FEATURES
+==================================================================
+
+✓ Personalized Skincare Quiz
+
+✓ AI-Based Skin Recommendations
+
+✓ Camera-Based Skin Analysis
+
+✓ Daily Skincare Routine Generator
+
+✓ Ingredient Safety Checker
+
+✓ Product Comparison Tool
+
+✓ Skin Progress Tracker
+
+✓ Mood & Skin Journal
+
+✓ AI Chat Assistant
+
+✓ Analytics Dashboard
+
+✓ Dark / Light Theme
+
+==================================================================
+APPLICATION FLOW
+==================================================================
+
+Home Page
+      │
+      ▼
+Skincare Quiz
+      │
+      ▼
+AI Analysis
+      │
+      ▼
+Personalized Report
+      │
+      ▼
+Routine & Product Recommendations
+      │
+      ▼
+Progress Tracking & Journal
+
+==================================================================
+DEPLOYMENT
+==================================================================
+
+Production deployment is configured for Vercel.
+
+Build Command
+
+npm run build
+
+Output Directory
+
+dist
+
+Serverless API
+
+/api/chat
+
+==================================================================
+TROUBLESHOOTING
+==================================================================
+
+Problem:
+Application does not start.
+
+Solution:
+Run
+
+npm install
+
+before starting the project.
+
+------------------------------------------------------------
+
+Problem:
+AI responses are unavailable.
+
+Solution:
+Verify that the OpenRouter API key is correctly configured.
+
+------------------------------------------------------------
+
+Problem:
+Backend connection fails.
+
+Solution:
+Ensure the Express server is running using
+
+npm run server
+
+------------------------------------------------------------
+
+Problem:
+Environment variables are not detected.
+
+Solution:
+Restart the development server after editing the .env file.
+
+==================================================================
+PROJECT AUTHOR
+==================================================================
+
+Shraddha Bankar
+
+Computer Science Engineering (Data Science)
+
+==================================================================
+END OF FILE
+==================================================================
