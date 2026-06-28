@@ -9,29 +9,29 @@ A visual walkthrough of every screen in the **Lumière AI Skincare Recommendatio
 ## 🏠 Landing Page
 
 ### Hero
-![Landing Hero](screenshots/01-landing-hero.png)
+![Landing Hero]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083359.png")
 
 ### Feature Grid
-![Landing Features](screenshots/02-landing-features.png)
+![Landing Features]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083434.png")
 
 ---
 
 ## 📝 Skin Profile Quiz (5 Steps)
 
 ### Step 1 — Skin Type
-![Quiz - Skin Type](screenshots/03-quiz-skin-type.png)
+![Quiz - Skin Type]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083458.png")
 
 ### Step 2 — Skin Concerns
-![Quiz - Concerns](screenshots/04-quiz-concerns.png)
+![Quiz - Concerns]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083528.png")
 
 ### Step 3 — Age Range
-![Quiz - Age Range](screenshots/05-quiz-age-range.png)
+![Quiz - Age Range]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083543.png")
 
 ### Step 4 — Climate
-![Quiz - Climate](screenshots/06-quiz-climate.png)
+![Quiz - Climate]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083609.png")
 
 ### Step 5 — Budget
-![Quiz - Budget](screenshots/07-quiz-budget.png)
+![Quiz - Budget]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083734.png")
 
 ---
 
@@ -40,61 +40,61 @@ A visual walkthrough of every screen in the **Lumière AI Skincare Recommendatio
 The Results page is organized into tabs — Overview, Photo, Routine, Products, Pairings, Weather, Lifestyle, and History.
 
 ### Overview — Skin Health Score & Metrics
-![Results - Overview](screenshots/08-results-overview.png)
+![Results - Overview]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083757.png")
 
 ### Photo — Selfie / Live Camera Scan
-![Results - Photo](screenshots/09-results-photo.png)
+![Results - Photo]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083822.png")
 
 ### Routine — AM/PM Skincare Steps
-![Results - Routine](screenshots/10-results-routine.png)
+![Results - Routine]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083849.png")
 
 ### Products — Personalized Recommendations
-![Results - Products](screenshots/11-results-products.png)
+![Results - Products]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083903.png")
 
 ### Pairings — Ingredient Compatibility
-![Results - Pairings](screenshots/12-results-pairings.png)
+![Results - Pairings]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083916.png")
 
 ### Weather — Climate-Adaptive Tips
-![Results - Weather](screenshots/13-results-weather.png)
+![Results - Weather]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083945.png")
 
 ### Lifestyle — Diet & Habit Suggestions
-![Results - Lifestyle](screenshots/14-results-lifestyle.png)
+![Results - Lifestyle]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 083959.png")
 
 ---
 
 ## ✅ Routine Tracker
 Daily AM/PM checklist with a weekly streak view.
-![Tracker](screenshots/15-tracker.png)
+![Tracker]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 084019.png")
 
 ---
 
 ## 📓 Skin Journal
 Daily mood/skin logging with emoji ratings and tags.
-![Journal](screenshots/16-journal.png)
+![Journal]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 084032.png")
 
 ---
 
 ## 🧪 Ingredient Checker
 Paste or scan an ingredient list for an instant safe / caution / avoid breakdown.
-![Ingredients](screenshots/17-ingredients.png)
+![Ingredients]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 084050.png")
 
 ---
 
 ## 📊 Analytics Dashboard
 Progress trends plus dermatology-backed scientific insights.
-![Analytics](screenshots/18-analytics.png)
+![Analytics]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 084108.png")
 
 ---
 
 ## ⚖️ Product Comparator
 Side-by-side AI comparison of any two skincare products.
-![Compare](screenshots/19-compare.png)
+![Compare]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 084126.png")
 
 ---
 
 ## 💬 Ask AI — Dermatologist Chat
 Conversational follow-up assistant with quick-start prompts.
-![Chat](screenshots/20-chat-ask-ai.png)
+![Chat]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 084139.png")
 
 ---
 
