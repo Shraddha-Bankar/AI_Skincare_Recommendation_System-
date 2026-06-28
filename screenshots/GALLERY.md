@@ -1,3 +1,5 @@
+<img width="1881" height="842" alt="Screenshot 2026-06-28 083359" src="https://github.com/user-attachments/assets/3304b7b1-a49f-46ae-9e1b-9a3cb37d3d93" />
+
 # 📸 Lumière AI — Screenshot Gallery
 
 A visual walkthrough of every screen in the **Lumière AI Skincare Recommendation System**, from landing page through quiz, AI-generated results, and every supporting tool.
@@ -84,7 +86,8 @@ Paste or scan an ingredient list for an instant safe / caution / avoid breakdown
 Progress trends plus dermatology-backed scientific insights.
 ![Analytics]("C:\Users\Shraddha\OneDrive\Pictures\Screenshots\Screenshot 2026-06-28 084108.png")
 
----
+---<img width="1887" height="872" alt="Screenshot 2026-06-28 083434" src="https://github.com/user-attachments/assets/b4e16f4c-dee5-4d3a-a263-8d248b433e68" />
+
 
 ## ⚖️ Product Comparator
 Side-by-side AI comparison of any two skincare products.
