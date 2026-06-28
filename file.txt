@@ -1,0 +1,35 @@
+AI_Skincare_Recommendation_System-/
+│
+├── .gitignore                    # Ignore unnecessary files
+├── README.md                     # Project documentation
+├── package.json                  # Project dependencies and scripts
+├── package-lock.json             # Dependency lock file
+├── vite.config.js                # Vite configuration
+├── index.html                    # React application entry
+├── server.js                     # Local Express proxy server
+│
+├── public/
+│   └── favicon.svg               # Website favicon
+│
+├── api/
+│   └── chat.js                   # Vercel serverless API for AI requests
+│
+└── src/
+    ├── main.jsx                  # React entry point
+    └── App.jsx                   # Main application containing:
+                                  # • API Layer
+                                  # • Theme System
+                                  # • Helper Functions
+                                  # • Navigation
+                                  # • Hero Page
+                                  # • Quiz Page
+                                  # • AI Analysis
+                                  # • Camera Scan
+                                  # • Results Page
+                                  # • Ingredients Checker
+                                  # • Product Comparison
+                                  # • Analytics Dashboard
+                                  # • Progress Tracker
+                                  # • Skin Journal
+                                  # • AI Chat Assistant
+                                  # • Root App Router
