@@ -10,8 +10,8 @@ A visual walkthrough of every screen in the **Lumière AI Skincare Recommendatio
 ## 🏠 Landing Page
 
 ### Hero
-![Landing Hero](<img width="1881" height="842" alt="Screenshot 2026-06-28 083359" src="https://github.com/user-attachments/assets/3304b7b1-a49f-46ae-9e1b-9a3cb37d3d93" />
-)
+<img width="1881" height="842" alt="Screenshot 2026-06-28 083359" src="https://github.com/user-attachments/assets/3304b7b1-a49f-46ae-9e1b-9a3cb37d3d93" />
+
 
 ### Feature Grid
 ![Landing Features](<img width="1887" height="872" alt="Screenshot 2026-06-28 083434" src="https://github.com/user-attachments/assets/b4e16f4c-dee5-4d3a-a263-8d248b433e68" />
